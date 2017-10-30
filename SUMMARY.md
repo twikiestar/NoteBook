@@ -10,4 +10,5 @@
 * [什么是高级语言？](shi-yao-shi-gao-ji-yu-yan.md)
 * [常见短语字母缩写](chang-jian-duan-yu-zi-mu-suo-xie.md)
 * [微信开发的问题](wei-xin-kai-fa-de-wen-ti.md)
+* [Web Assets](web-assets.md)
 
