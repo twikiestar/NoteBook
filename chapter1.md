@@ -1,1 +1,6 @@
-# First Chapter
+# GitLab
+
+Gitlab是诞生在Git服务器上的一个代码托管系统，可以通过Web浏览器进行访问，不用看着控制台一直敲代码了
+
+
+

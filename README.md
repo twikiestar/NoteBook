@@ -1,3 +1,6 @@
-# My Awesome Book
+# 这是作为一名程序员的开始
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+收集一些常用东西而已
+
+
+
