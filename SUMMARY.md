@@ -11,5 +11,4 @@
 * [常见短语字母缩写](chang-jian-duan-yu-zi-mu-suo-xie.md)
 * [微信开发的问题](wei-xin-kai-fa-de-wen-ti.md)
 * [Web Assets](web-assets.md)
-* [颜文字收集](yan-wen-zi-shou-ji.md)
 
