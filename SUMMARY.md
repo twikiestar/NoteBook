@@ -8,4 +8,5 @@
 * [ThinkPHP3.2数据表关联查询](thinkphp32shu-ju-biao-guan-lian-cha-xun.md)
 * [Javascript IF语句的使用](javascript-ifyu-ju-de-shi-yong.md)
 * [什么是高级语言？](shi-yao-shi-gao-ji-yu-yan.md)
+* [常见短语字母缩写](chang-jian-duan-yu-zi-mu-suo-xie.md)
 
