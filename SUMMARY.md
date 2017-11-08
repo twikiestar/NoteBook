@@ -8,4 +8,5 @@
 * [Apache的配置细节](apachede-pei-zhi-xi-jie.md)
 * [install Yii 2.0 inLinux](install-yii-20-inlinux.md)
 * [If---else](if-else.md)
+* [Redis Start](redis-start.md)
 
