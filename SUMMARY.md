@@ -11,4 +11,5 @@
 * [常见短语字母缩写](chang-jian-duan-yu-zi-mu-suo-xie.md)
 * [微信开发的问题](wei-xin-kai-fa-de-wen-ti.md)
 * [Web Assets](web-assets.md)
+* [Git克隆其他项目的时候出现SSL certificate Problem](gitke-long-qi-ta-xiang-mu-de-shi-hou-chu-xian-ssl-certificate-problem.md)
 
