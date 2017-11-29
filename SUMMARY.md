@@ -11,4 +11,5 @@
 * [shell脚本无法运行bad interpreter](shelljiao-ben-wu-fa-yun-xing-bad-interpreter.md)
 * [redis start](redis-start.md)
 * [Ubantu下蓝灯Lantern 运行之后没有反应](ubantuxia-lan-deng-lantern-yun-xing-zhi-hou-mei-you-fan-ying.md)
+* [nginx](nginx.md)
 
